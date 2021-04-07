@@ -1,3 +1,4 @@
+package progAssignment;
 /*
  * File: PAssign08.java
  * @author Ivan Acha
